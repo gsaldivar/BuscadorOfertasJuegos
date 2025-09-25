@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CheapSharkApp</string>
+    <string name="game_deal_finder">Buscador de Ofertas de Juegos</string>
+    <string name="game_title_hint">Ingresa el título del juego</string>
+    <string name="search_deals">Buscar Ofertas</string>
+</resources>
